@@ -1,0 +1,17 @@
+.validSenhaContainer {
+    align-items: center;
+    align-self: center;
+    background: #202020;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    height: 147px;
+    justify-content: center;
+    position: relative;
+    width: 359px;
+    border: #212124;
+    border: 1px solid rgb(238, 18, 187);
+  }
+  
+  
+  
